@@ -13,6 +13,9 @@ You can then use that pattern to search for these commit within the current bran
 ```
 git log --grep "\[.*\]"
 git log --grep "\[EW-.*\]" master..release-1
+# 
+git log --no-merges 
+git log --since=2019-06-12
 ```
 ## show all files that hava changed in a release branch 
 
