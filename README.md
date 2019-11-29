@@ -38,3 +38,6 @@ https://www.atlassian.com/git/tutorials/migrating-overview
 
 ## git flow cheatsheet 
 https://danielkummer.github.io/git-flow-cheatsheet/
+
+## git book 
+http://git-scm.com/book/de/v2
