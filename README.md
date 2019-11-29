@@ -22,3 +22,8 @@ git log --since=2019-06-12
 Shows all the files that have been changed since the branch was created 
 
 git diff --name-only develop..release-1
+
+## git guis under windows 
+
+https://git-scm.com/download/gui/linux
+
