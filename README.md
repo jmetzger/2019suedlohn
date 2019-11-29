@@ -31,3 +31,7 @@ https://git-scm.com/download/gui/linux
 
 https://git-scm.com/docs/githooks#_post_merge
 https://www.underthecocotree.co.uk/blog/a-tale-of-sourcetree-and-git-hooks
+
+## git migration from svn (svn2git) 
+
+https://www.atlassian.com/git/tutorials/migrating-overview
