@@ -30,3 +30,4 @@ https://git-scm.com/download/gui/linux
 ## git hooks 
 
 https://git-scm.com/docs/githooks#_post_merge
+https://www.underthecocotree.co.uk/blog/a-tale-of-sourcetree-and-git-hooks
