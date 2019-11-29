@@ -35,3 +35,6 @@ https://www.underthecocotree.co.uk/blog/a-tale-of-sourcetree-and-git-hooks
 ## git migration from svn (svn2git) 
 
 https://www.atlassian.com/git/tutorials/migrating-overview
+
+## git flow cheatsheet 
+https://danielkummer.github.io/git-flow-cheatsheet/
