@@ -12,7 +12,7 @@ You can then use that pattern to search for these commit within the current bran
 
 ```
 git log --grep "\[.*\]"
-git diff --name-only master..a66c
+git log --grep "\[EW-.*\]" master..release-1
 ```
 ## show all files that hava changed in a release branch 
 
