@@ -23,7 +23,10 @@ Shows all the files that have been changed since the branch was created
 
 git diff --name-only develop..release-1
 
-## git guis under windows 
+## git guis under linux
 
 https://git-scm.com/download/gui/linux
 
+## git hooks 
+
+https://git-scm.com/docs/githooks#_post_merge
